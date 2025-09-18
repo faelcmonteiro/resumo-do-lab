@@ -85,5 +85,19 @@ LAboratório DIO.
 
 7. **Encerramento/Teste**  
    - Banco criado com sucesso e acessível.  
-   - Serviço pausado após testes para evitar custos desnecessários.  
+   - Serviço pausado após testes para evitar custos desnecessários.
+   -   
+## 📌 Descrição
+Este repositório foi criado como parte do desafio da **DIO** para consolidar os conhecimentos adquiridos durante o laboratório prático.  
+O objetivo é documentar os principais aprendizados e reforçar a importância do GitHub como ferramenta para organização e compartilhamento de estudos técnicos.
 
+## 📝 O que Aprendi
+
+Durante o desenvolvimento do lab, aprendi a:
+
+- Compreender melhor os **componentes de arquitetura do Azure**.  
+- Entender a função de **grupos de recursos (Resource Groups)** como forma de organizar e gerenciar serviços.  
+- Criar e configurar serviços no **Portal do Azure**, entendendo a relação entre **recursos, regiões e assinaturas**.  
+- Reconhecer a importância de boas práticas de governança, como apagar recursos quando não estão mais em uso para evitar custos.  
+- Utilizar o **GitHub** como repositório de conhecimento técnico e como ferramenta para expor meu portfólio profissional.  
+- Documentar processos técnicos de forma estruturada com **Markdown**. 
