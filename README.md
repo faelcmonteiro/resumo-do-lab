@@ -43,4 +43,47 @@ LAboratório DIO.
    - Testei login com usuário e senha criados.  
 
 6. **Encerrar/Testar a VM**  
-   - Após validações, desliguei a VM para evitar custos.  
+   - Após validações, desliguei a VM para evitar custos.   🎯 Objetivos do Desafio
+- Consolidar os conhecimentos adquiridos sobre **Banco de Dados no Azure**.  
+- Criar e configurar uma instância de **Azure SQL Database**.  
+- Documentar os processos técnicos de forma clara e organizada.  
+- Utilizar o **GitHub** como ferramenta para compartilhar documentação técnica.  
+- Construir um portfólio público de projetos que poderá ser usado em entrevistas.  
+
+---
+
+## 🛠️ Passo a Passo Realizado
+
+1. **Acessar o Portal do Azure**  
+   - URL: [https://portal.azure.com](https://portal.azure.com)  
+   - Login realizado com conta Microsoft.  
+
+2. **Criar Grupo de Recursos**  
+   - Nome do grupo: `dio-grupo-banco`  
+   - Região: *Brazil South*  
+
+3. **Criar Servidor SQL**  
+   - Nome do servidor: `servidor-sql-dio`  
+   - Usuário administrador: `azureuser`  
+   - Senha: criada durante a configuração  
+
+4. **Criar Banco de Dados**  
+   - Nome do banco: `db-dio-projeto`  
+   - Camada de desempenho: `Basic` (ideal para testes)  
+
+5. **Configurar Firewall/IP**  
+   - Liberação do IP local para permitir acesso externo.  
+   - Habilitado acesso via portal do Azure.  
+
+6. **Conectar ao Banco**  
+   - Ferramenta utilizada: **Azure Data Studio**  
+   - Teste de conexão bem-sucedido.  
+   - Comando executado para validar:  
+     ```sql
+     SELECT @@VERSION;
+     ```  
+
+7. **Encerramento/Teste**  
+   - Banco criado com sucesso e acessível.  
+   - Serviço pausado após testes para evitar custos desnecessários.  
+
