@@ -100,4 +100,29 @@ Durante o desenvolvimento do lab, aprendi a:
 - Criar e configurar serviços no **Portal do Azure**, entendendo a relação entre **recursos, regiões e assinaturas**.  
 - Reconhecer a importância de boas práticas de governança, como apagar recursos quando não estão mais em uso para evitar custos.  
 - Utilizar o **GitHub** como repositório de conhecimento técnico e como ferramenta para expor meu portfólio profissional.  
-- Documentar processos técnicos de forma estruturada com **Markdown**. 
+- Documentar processos técnicos de forma estruturada com **Markdown**.
+
+- Objetivos do Desafio
+- Aplicar os conceitos aprendidos em um ambiente prático.  
+- Documentar processos técnicos de forma clara e estruturada.  
+- Utilizar o **GitHub** como ferramenta para compartilhamento de documentação técnica.  
+
+---
+
+## 📝 Resumo do que aprendi
+Durante a execução do laboratório, aprendi a:  
+
+1. **Criar e gerenciar recursos no Azure** por meio do portal.  
+2. **Organizar recursos em Resource Groups**, facilitando a administração.  
+3. **Configurar uma instância no Azure**, entendendo conceitos de máquinas virtuais, redes e armazenamento.  
+4. **Navegar na interface do Azure**, explorando as principais funcionalidades do portal.  
+5. **Documentar processos técnicos no GitHub**, utilizando o arquivo `README.md` em Markdown.  
+
+---
+
+## 🛠️ Passo a Passo realizado
+1. Acesse o portal do Azure.  
+2. Crie e configure os recursos necessários para o laboratório.  
+3. Organize os recursos em um **Resource Group**.  
+4. Teste a execução do ambiente.  
+5. Documente a experiência neste repositório.
